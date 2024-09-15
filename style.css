@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+body {
+    padding: 20px;
+}
+
+button {
+    background-color: darkcyan;
+    font-size: medium;
+    color: aliceblue;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius: 20px;
+}
+
+#user {
+    width: 450px;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+    border-radius: 50px;
+    margin: 50px auto;
+    color: aliceblue;
+}
+
+#user img {
+    border-radius: 50%;
+    width: 300px;
+}
+
+h1,
+h2,
+h3 {
+    margin: 10px auto;
+}
